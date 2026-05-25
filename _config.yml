@@ -22,7 +22,7 @@ title: Test Worldbuilding Wiki
 # email: your-email@example.com
 description: A Test Wiki template for TTRPG worldbuilding that will hopefully eventually include integrations for leaflet.js, legendkeeper timelines, and full text search through pagefind.app built by Sirenscoven.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://smithmor.github.io/wb-grimoire/"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
