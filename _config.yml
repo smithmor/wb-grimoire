@@ -28,7 +28,7 @@ url: "https://smithmor.github.io/wb-grimoire/"
 
 # Build settings
 theme: minima
-plugins:
+plugins: jekyll-feed
 
 
 # Exclude from processing.
